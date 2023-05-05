@@ -274,10 +274,7 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "Net-(C2-Pad1)": "+VM",
-      "unconnected-(C8-Pad1)": "+VM"
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
