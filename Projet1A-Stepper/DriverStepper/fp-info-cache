@@ -1,4 +1,11 @@
-33634861954144
+37003576688216
+173010542 - DC
+173010542
+
+
+0
+3
+3
 AS5600
 SOIC127P600X175-8N
 SOIC-8
@@ -6,6 +13,13 @@ Integrated Circuit
 0
 8
 8
+AZ1117
+AZ1117IH-3.3TRG1
+
+
+0
+3
+3
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
